@@ -87,6 +87,6 @@ Author
 
 Tega Avwaghwaruvwe
 
-Senior Cloud Engineer | Microsoft Entra ID | Azure Security | Identity & Access Management (IAM) | Cloud Security
+Cloud Engineer | Microsoft Entra ID | Azure Security | Identity & Access Management (IAM) | Cloud Security
 
 GitHub: https://github.com/tegs3
